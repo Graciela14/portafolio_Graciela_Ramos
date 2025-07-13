@@ -4,7 +4,7 @@
 ¡Hola! Soy Graciela Ramos y este es mi portafolio como analista de datos. Aquí presento proyectos en los que aplico análisis, validación e interpretación de información utilizando herramientas como Power BI, SQL, Excel y Python.
 
 ## 📊 Proyecto: Dashboard Comercial y de Ventas  
-📄 [Ver PDF](Dashboard_Comercial_Ventas.pdf)
+📄 [Ver PDF]Dashboard Comercial y de Ventas.pdf
 
 Este dashboard muestra una visualización clara y estratégica del comportamiento comercial y de ventas, incluyendo:
 - Análisis por categorías de productos
